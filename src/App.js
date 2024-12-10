@@ -52,6 +52,6 @@ export default function App() {
 
 function Message(props){
   return (
-    <p>You have read <strong> {props.count} </strong> pieaces of adivces</p>
+    <p>You have read <strong> {props.count} </strong> pieaces s of adivces</p>
   )
 }
